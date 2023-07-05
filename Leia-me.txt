@@ -1,0 +1,8 @@
+Informações: Site desenvolvido para uma doceria chamada Doce de Nuvem. Através desse site, é possível entrar em contato com a equipe de atendimento, realizar encomendas, conferir promoções ativas, conhecer a história e as demais unidades espalhadas pelo país. Sua facilidade de navegação tem como objetivo incluir os mais diversos clientes, não necessitando assim de tanta habilidade com os cliques.
+
+Framework utilizado: Bootstrap
+
+Participantes:
+
+Nome
+Nome
